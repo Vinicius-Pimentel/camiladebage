@@ -29,10 +29,6 @@
 <img src="https://img.shields.io/badge/ASP.NET-2D2AE3?style=for-the-badge&logo=aspnet&logoColor=white"/>
 
 
-
-
-
-
-
+-vinicius esteve aqui <3 ninenha
 
 
